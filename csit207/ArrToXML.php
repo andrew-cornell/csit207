@@ -30,4 +30,5 @@ array_to_xml($characters,$xmlfile);
 $xmlfile->asXML('characters.xml');
 
 //BOILER
+//going to merge boiler to main
 ?>
