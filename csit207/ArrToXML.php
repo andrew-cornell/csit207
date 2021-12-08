@@ -28,5 +28,5 @@ $xmlfile = new SimpleXMLElement('<character/>');
 array_to_xml($characters,$xmlfile);
 
 $xmlfile->asXML('characters.xml');
-
+// first feature
 ?>
