@@ -29,4 +29,5 @@ array_to_xml($characters,$xmlfile);
 
 $xmlfile->asXML('characters.xml');
 
+// this is second feature
 ?>
